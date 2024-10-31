@@ -74,7 +74,7 @@ The categories for region of origin are defined to be well-delineable
 by an AI language model.
 
 While imperfect, we argue that they represent imperfectly but reasonably well
-the likely a mixed second-hand perception of ethnicity and country of origin,
+a likely mixed second-hand perception of ethnicity and country of origin,
 which is the relevant property for potential discrimination: this is because issue
 handlers and respondents have access to this information only,
 rather than, for instance, a more accurate (but inaccessible) self-reported ethnicity.
@@ -114,7 +114,7 @@ nine regions of name origin, and ordered by the median waiting time.
 Columns are, from left to right: median, 1st quartile, 3rd quartile,
 maximum, mean, and standard deviation (of waiting times), and total sample count.
 
-The Sub-Saharan African category is not shown due to low sample size (2) that make
+The Sub-Saharan African category is not shown due to low sample size (2) that makes
 interpretation difficult, but would be the last column if it were shown.
 
 ```
